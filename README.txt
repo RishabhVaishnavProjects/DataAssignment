@@ -5,8 +5,7 @@
   via the browser using python libraries such as pyquery, urllib, requests, and Lxml, below is the link for additional infomation about tool:-
   https://medium.com/analytics-vidhya/twitter-data-mining-mining-twitter-data-without-api-keys-a2a2bd3f11c
 
-* task.py is written to show whether the tweets indicates negative, positive or neutral sentiments by analysing the use of racial
-  slurs and obscene language in each tweet
+* task.py is written to show whether the tweets indicates negative, positive or neutral sentiments by analysing the use of racial slurs and obscene language in each tweet
 
 * I have used GetOldTweets python tool to fetch the tweets which contains the racial slur "nigger" and store 100 tweets into
   tweets.csv file, below is the command which i executed to fetch the tweets:-
