@@ -12,8 +12,7 @@
 
   python GetOldTweets3.py --querysearch "nigger" --maxtweets 100 --output tweets.csv
 
-* To analyze a tweet for understanding the opinion expressed by it, we quantify the sentiment with a positive or negative value called polarity.
-  the overall sentiment is often inferred as positive, neutral or negative from the sign of the polarity score.
+* To analyze a tweet for understanding the opinion expressed by it, we quantify the sentiment with a positive or negative value called polarity, the overall sentiment is often inferred as positive, neutral or negative from the sign of the polarity score.
 
 * In task.py, polariy of tweet greater then 0 means positive sentiment, less then 0 means negative sentiment and equal to 0 means neutral sentiment.
 
